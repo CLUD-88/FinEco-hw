@@ -1,0 +1,6 @@
+.jupyter/
+.ipython/
+.matplotlib/
+**/__pycache__/
+**/.ipynb_checkpoints/
+hw02-2/data/*.csv
